@@ -1,0 +1,30 @@
+#u377
+{
+	-pie-box-shadow: 6px 6px 15px #B2B2B2;
+	box-shadow: 6px 6px 15px rgba(127,127,127,0.6);
+	background-color: #0095FF;
+}
+
+#u378
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u1630
+{
+	background-color: #484848;
+}
+
+#u377_align_to_page,#u1630_align_to_page
+{
+	position: relative;
+}
+
+#u387-4,#u1631-4
+{
+	display: block;
+	vertical-align: top;
+	position: relative;
+}
+

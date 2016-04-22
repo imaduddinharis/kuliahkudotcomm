@@ -1,0 +1,194 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="kuliahku.com" resolutions="1x" timestamp="1460710971962">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="master_b-masteri.css" crc="4019467318" ref="dashboard"/>
+    <file name="master_a-master.css" crc="216378482" ref="registration:index"/>
+    <file name="master_c-master.css" crc="4242699305" ref="nilai:materi:kehadiran:laporan:evaluasi-1:evaluasi-2"/>
+    <file name="nilai.css" crc="420014846" ref="nilai"/>
+    <file name="materi.css" crc="4201627419" ref="materi"/>
+    <file name="kehadiran.css" crc="3806400759" ref="kehadiran"/>
+    <file name="registration.css" crc="144960135" ref="registration"/>
+    <file name="index.css" crc="3909497566" ref="index"/>
+    <file name="laporan.css" crc="4112291942" ref="laporan"/>
+    <file name="evaluasi-1.css" crc="311324654" ref="evaluasi-1"/>
+    <file name="dashboard.css" crc="4092179705" ref="dashboard"/>
+    <file name="evaluasi-2.css" crc="101253902" ref="evaluasi-2"/>
+  </folder>
+  <folder name="assets">
+    <file name="adobe-slate.mulib" crc="132839411" seo="true" mt="1460656179000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:dashboard:materi:registration:evaluasi-1:nilai:kehadiran:laporan:evaluasi-2"/>
+    <file name="museutils.js" crc="183364071" ref="index:dashboard:materi:registration:evaluasi-1:nilai:kehadiran:laporan:evaluasi-2"/>
+    <file name="pie.js" crc="3827607177" ref="index:dashboard:materi"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:dashboard:materi:registration:evaluasi-1:nilai:kehadiran:laporan:evaluasi-2"/>
+    <file name="webpro.js" crc="3803554875" ref="index"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="index"/>
+    <file name="touchswipe.js" crc="4038331989" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="1.png" crc="88739420" seo="true" ref="index:dashboard:materi:registration:evaluasi-1:nilai:kehadiran:laporan:evaluasi-2"/>
+    <file name="u387-4.png" crc="180639125" ref="index:registration"/>
+    <file name="login background.jpg" crc="206572952" seo="true" ref="index"/>
+    <file name="u409-4.png" crc="4065116542" ref="index"/>
+    <file name="form.png" crc="221826433" seo="true" ref="index"/>
+    <file name="u456-4.png" crc="4101113706" ref="index"/>
+    <file name="overview.jpg" crc="3797212773" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:dashboard:materi:evaluasi-1:nilai:kehadiran:laporan:evaluasi-2"/>
+    <file name="overview 2.jpg" crc="3977360641" seo="true" ref="index"/>
+    <file name="overview 3.jpg" crc="3819822434" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="users-user-icon.png" crc="533016339" seo="true" ref="index"/>
+    <file name="pass icon.png" crc="504137729" seo="true" ref="index"/>
+    <file name="u1631-4.png" crc="4049477410" ref="index:registration"/>
+    <file name="u618-4.png" crc="180639125" ref="dashboard"/>
+    <file name="u761-4-a.png" crc="4136115391" ref="dashboard"/>
+    <file name="u762.png" crc="3785597704" ref="dashboard"/>
+    <file name="u762-r.png" crc="3989902643" ref="dashboard"/>
+    <file name="u764_states.png" crc="448442905" ref="dashboard"/>
+    <file name="u764_states-r.png" crc="524782389" ref="dashboard"/>
+    <file name="me.jpg" crc="4190633112" seo="true" ref="dashboard:materi:evaluasi-1:nilai:kehadiran:laporan:evaluasi-2"/>
+    <file name="u609-4.png" crc="3982061063" ref="dashboard"/>
+    <file name="u610-4.png" crc="213905375" ref="dashboard"/>
+    <file name="u611-4.png" crc="469467884" ref="dashboard"/>
+    <file name="checkbox white.png" crc="3853233161" seo="true" ref="dashboard:materi:evaluasi-1:nilai:kehadiran:laporan:evaluasi-2"/>
+    <file name="u1214-4.png" crc="4073339912" ref="dashboard"/>
+    <file name="materi-u458.png" crc="3940102932" ref="dashboard"/>
+    <file name="u493-4.png" crc="3964410261" ref="dashboard"/>
+    <file name="nilai-u479.png" crc="4215000075" ref="dashboard"/>
+    <file name="u464-4.png" crc="445024245" ref="dashboard"/>
+    <file name="evaluasi 1-u465.png" crc="3883400276" ref="dashboard"/>
+    <file name="u471-4.png" crc="498394547" ref="dashboard"/>
+    <file name="presensi-u486.png" crc="4177557727" ref="dashboard"/>
+    <file name="u498-4.png" crc="4286416182" ref="dashboard"/>
+    <file name="evaluasi 2-u472.png" crc="428195302" ref="dashboard"/>
+    <file name="u478-4.png" crc="4284200285" ref="dashboard"/>
+    <file name="report-u499.png" crc="464736534" ref="dashboard"/>
+    <file name="u505-4.png" crc="3977630862" ref="dashboard"/>
+    <file name="u1633-4.png" crc="4049477410" ref="dashboard"/>
+    <file name="u1058-4.png" crc="180639125" ref="materi:evaluasi-1:nilai:kehadiran:laporan:evaluasi-2"/>
+    <file name="u772-4.png" crc="4136115391" ref="materi"/>
+    <file name="u773.png" crc="3785597704" ref="materi"/>
+    <file name="u773-r.png" crc="3989902643" ref="materi"/>
+    <file name="u774_states.png" crc="448442905" ref="materi"/>
+    <file name="u774_states-r.png" crc="524782389" ref="materi"/>
+    <file name="u1059-4.png" crc="3982061063" ref="materi:evaluasi-1:nilai:kehadiran:laporan:evaluasi-2"/>
+    <file name="u1060-4.png" crc="213905375" ref="materi:evaluasi-1:nilai:kehadiran:laporan:evaluasi-2"/>
+    <file name="u1061-4.png" crc="469467884" ref="materi:evaluasi-1:nilai:kehadiran:laporan:evaluasi-2"/>
+    <file name="u1217-4.png" crc="4073339912" ref="materi:evaluasi-1:nilai:kehadiran:laporan:evaluasi-2"/>
+    <file name="menu button.png" crc="4228597635" seo="true" ref="materi:evaluasi-1:nilai:kehadiran:laporan:evaluasi-2"/>
+    <file name="u557-4.png" crc="423841378" ref="materi"/>
+    <file name="u969-4.png" crc="3932107055" ref="materi"/>
+    <file name="u970-4.png" crc="3938783157" ref="materi"/>
+    <file name="u976-4.png" crc="4228635555" ref="materi"/>
+    <file name="u1359-4.png" crc="4140423837" ref="materi"/>
+    <file name="u1355-4.png" crc="288024160" ref="materi"/>
+    <file name="u1356-4.png" crc="351110241" ref="materi"/>
+    <file name="materi.jpg" crc="252858036" seo="true" ref="materi"/>
+    <file name="u1343-4.png" crc="459889728" ref="materi"/>
+    <file name="u1344-4.png" crc="405163002" ref="materi"/>
+    <file name="u1345-4.png" crc="3940456251" ref="materi"/>
+    <file name="u1346-4.png" crc="3942439603" ref="materi"/>
+    <file name="u1347-4.png" crc="3853813377" ref="materi"/>
+    <file name="u1352-4.png" crc="514134310" ref="materi"/>
+    <file name="u1353-4.png" crc="4211814749" ref="materi"/>
+    <file name="u1354-4.png" crc="3868334872" ref="materi"/>
+    <file name="download button.png" crc="3984328653" seo="true" ref="materi:evaluasi-1:laporan:evaluasi-2"/>
+    <file name="edit.png" crc="4062656315" seo="true" ref="materi:nilai"/>
+    <file name="delete button.png" crc="4073499160" seo="true" ref="materi:evaluasi-1:evaluasi-2"/>
+    <file name="u1626-4.png" crc="3863973858" ref="materi"/>
+    <file name="u1620-4.png" crc="3897262292" ref="materi"/>
+    <file name="u1621-4.png" crc="37213046" ref="materi"/>
+    <file name="u1623-4.png" crc="64841111" ref="materi"/>
+    <file name="u1628-4.png" crc="4053429761" ref="materi"/>
+    <file name="u1636-4.png" crc="4049477410" ref="materi:evaluasi-1:nilai:kehadiran:laporan:evaluasi-2"/>
+    <file name="u918-4.png" crc="3776434799" ref="registration"/>
+    <file name="combobox.jpg" crc="3927452026" seo="true" ref="registration"/>
+    <file name="u951-4.png" crc="93453528" ref="registration"/>
+    <file name="u957-4.png" crc="523416862" ref="registration"/>
+    <file name="u956-4.png" crc="93453528" ref="registration"/>
+    <file name="u958-4.png" crc="523416862" ref="registration"/>
+    <file name="u961-4.png" crc="3962432569" ref="registration"/>
+    <file name="u834-4.png" crc="4136115391" ref="evaluasi-1"/>
+    <file name="u835.png" crc="3785597704" ref="evaluasi-1"/>
+    <file name="u835-r.png" crc="3989902643" ref="evaluasi-1"/>
+    <file name="u836_states.png" crc="448442905" ref="evaluasi-1"/>
+    <file name="u836_states-r.png" crc="524782389" ref="evaluasi-1"/>
+    <file name="u839-4.png" crc="203026166" ref="evaluasi-1"/>
+    <file name="u1471-4.png" crc="4037720820" ref="evaluasi-1"/>
+    <file name="u1476-4.png" crc="4228635555" ref="evaluasi-1"/>
+    <file name="u1479-4.png" crc="14023675" ref="evaluasi-1"/>
+    <file name="u985-4.png" crc="375046397" ref="evaluasi-1"/>
+    <file name="down button.png" crc="4114155824" seo="true" ref="evaluasi-1:evaluasi-2"/>
+    <file name="u1014-4.png" crc="3841160346" ref="evaluasi-1"/>
+    <file name="tabel tugas.jpg" crc="4179307891" seo="true" ref="evaluasi-1:evaluasi-2"/>
+    <file name="u1488-4.png" crc="346082634" ref="evaluasi-1"/>
+    <file name="u1496-4.png" crc="357147732" ref="evaluasi-1"/>
+    <file name="u1490-4.png" crc="24904084" ref="evaluasi-1"/>
+    <file name="u1497-4.png" crc="3842313167" ref="evaluasi-1"/>
+    <file name="u1500-4.png" crc="445675147" ref="evaluasi-1"/>
+    <file name="u1498-4.png" crc="4197593632" ref="evaluasi-1"/>
+    <file name="u1499-4.png" crc="54693295" ref="evaluasi-1"/>
+    <file name="u1501-4.png" crc="3924373148" ref="evaluasi-1"/>
+    <file name="u1503-4.png" crc="4067462496" ref="evaluasi-1"/>
+    <file name="u1504-4.png" crc="165969627" ref="evaluasi-1"/>
+    <file name="u1505-4.png" crc="440804347" ref="evaluasi-1"/>
+    <file name="u875-4.png" crc="4136115391" ref="nilai"/>
+    <file name="u874.png" crc="3785597704" ref="nilai"/>
+    <file name="u874-r.png" crc="3989902643" ref="nilai"/>
+    <file name="u873_states.png" crc="448442905" ref="nilai"/>
+    <file name="u873_states-r.png" crc="524782389" ref="nilai"/>
+    <file name="u871-4.png" crc="138073725" ref="nilai"/>
+    <file name="tabel nilai.jpg" crc="3824870214" seo="true" ref="nilai"/>
+    <file name="tabel nilai 2.jpg" crc="287469488" seo="true" ref="nilai"/>
+    <file name="u885-4.png" crc="4136115391" ref="kehadiran"/>
+    <file name="u887.png" crc="3785597704" ref="kehadiran"/>
+    <file name="u887-r.png" crc="3989902643" ref="kehadiran"/>
+    <file name="u886_states.png" crc="448442905" ref="kehadiran"/>
+    <file name="u886_states-r.png" crc="524782389" ref="kehadiran"/>
+    <file name="u884-4.png" crc="27088167" ref="kehadiran"/>
+    <file name="u1225-4.png" crc="297768351" ref="kehadiran"/>
+    <file name="u1226-4.png" crc="274838365" ref="kehadiran"/>
+    <file name="kehadiran.jpg" crc="4260441704" seo="true" ref="kehadiran"/>
+    <file name="u909-4.png" crc="4136115391" ref="laporan"/>
+    <file name="u911.png" crc="3785597704" ref="laporan"/>
+    <file name="u911-r.png" crc="3989902643" ref="laporan"/>
+    <file name="u908_states.png" crc="448442905" ref="laporan"/>
+    <file name="u908_states-r.png" crc="524782389" ref="laporan"/>
+    <file name="u912-4.png" crc="3946393922" ref="laporan"/>
+    <file name="tabel pelaporan.jpg" crc="310542858" seo="true" ref="laporan"/>
+    <file name="print button.png" crc="3841406217" seo="true" ref="laporan"/>
+    <file name="u1547-4.png" crc="4136115391" ref="evaluasi-2"/>
+    <file name="u1509.png" crc="3785597704" ref="evaluasi-2"/>
+    <file name="u1509-r.png" crc="3989902643" ref="evaluasi-2"/>
+    <file name="u1541_states.png" crc="448442905" ref="evaluasi-2"/>
+    <file name="u1541_states-r.png" crc="524782389" ref="evaluasi-2"/>
+    <file name="u1517-4.png" crc="4111218397" ref="evaluasi-2"/>
+    <file name="u1536-4.png" crc="4037720820" ref="evaluasi-2"/>
+    <file name="u1540-4.png" crc="4228635555" ref="evaluasi-2"/>
+    <file name="u1512-4.png" crc="14023675" ref="evaluasi-2"/>
+    <file name="u1537-4.png" crc="375046397" ref="evaluasi-2"/>
+    <file name="u1543-4.png" crc="3841160346" ref="evaluasi-2"/>
+    <file name="u1538-4.png" crc="346082634" ref="evaluasi-2"/>
+    <file name="u1515-4.png" crc="357147732" ref="evaluasi-2"/>
+    <file name="u1530-4.png" crc="24904084" ref="evaluasi-2"/>
+    <file name="u1528-4.png" crc="91035757" ref="evaluasi-2"/>
+    <file name="u1522-4.png" crc="4291946233" ref="evaluasi-2"/>
+    <file name="u1516-4.png" crc="68162964" ref="evaluasi-2"/>
+    <file name="u1523-4.png" crc="243276254" ref="evaluasi-2"/>
+    <file name="u1519-4.png" crc="3924373148" ref="evaluasi-2"/>
+    <file name="u1521-4.png" crc="4067462496" ref="evaluasi-2"/>
+    <file name="u1548-4.png" crc="165969627" ref="evaluasi-2"/>
+    <file name="u1533-4.png" crc="440804347" ref="evaluasi-2"/>
+  </folder>
+  <file name="index.html" crc="429120054" seo="true" mt="1460707877171" redirect="true"/>
+  <file name="dashboard.html" crc="3867080877" seo="true" mt="1460710709749" redirect="true"/>
+  <file name="materi.html" crc="3930789765" seo="true" mt="1460710677783" redirect="true"/>
+  <file name="registration.html" crc="408754906" seo="true" mt="1460710448499" redirect="true"/>
+  <file name="evaluasi-1.html" crc="157289226" seo="true" mt="1460710677783" redirect="true"/>
+  <file name="nilai.html" crc="4233015410" seo="true" mt="1460710677783" redirect="true"/>
+  <file name="kehadiran.html" crc="4023008648" seo="true" mt="1460710677783" redirect="true"/>
+  <file name="laporan.html" crc="199271133" seo="true" mt="1460710677783" redirect="true"/>
+  <file name="evaluasi-2.html" crc="4215728244" seo="true" mt="1460710677783" redirect="true"/>
+</manifest>

@@ -1,0 +1,45 @@
+#u554
+{
+	-pie-box-shadow: 6px 6px 15px #B2B2B2;
+	box-shadow: 6px 6px 15px rgba(127,127,127,0.6);
+	background-color: #0095FF;
+}
+
+#u556
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #484848;
+	background-color: #666666;
+	position: relative;
+}
+
+#u552,#u1205,#u1208
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u1632
+{
+	background-color: #484848;
+}
+
+#u554_align_to_page,#u1632_align_to_page
+{
+	position: relative;
+}
+
+#u618-4,#u609-4,#u610-4,#u611-4,#u1214-4,#u1633-4
+{
+	display: block;
+	vertical-align: top;
+	position: relative;
+}
+
+input[type=checkbox] {
+   display: inline;
+   width:33px;
+   height:33px;
+   cursor:pointer;
+}

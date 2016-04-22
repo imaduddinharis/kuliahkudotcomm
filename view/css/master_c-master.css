@@ -1,0 +1,53 @@
+#u1057
+{
+	-pie-box-shadow: 6px 6px 15px #B2B2B2;
+	box-shadow: 6px 6px 15px rgba(127,127,127,0.6);
+	background-color: #0095FF;
+}
+
+#u1064
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #484848;
+	background-color: #666666;
+	position: relative;
+}
+
+#u1062,#u1204,#u1215
+{
+	background-color: transparent;
+	position: relative;
+}
+
+input[type=checkbox] {
+   display: inline;
+   width:33px;
+   height:33px;
+   cursor:pointer;
+}
+
+#u1635
+{
+	background-color: #484848;
+}
+
+#u1057_align_to_page,#u1635_align_to_page
+{
+	position: relative;
+}
+
+#u1058-4,#u1059-4,#u1060-4,#u1061-4,#u1217-4,#u1636-4
+{
+	display: block;
+	vertical-align: top;
+	position: relative;
+}
+
+input[type=checkbox] {
+   display: inline;
+   width:33px;
+   height:33px;
+   cursor:pointer;
+}
+

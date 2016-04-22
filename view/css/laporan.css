@@ -1,0 +1,458 @@
+.version.laporan /* version checker */
+{
+	color: #0000F5;
+	background-color: #1C9866;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 1160px;
+	min-height: 1228.95px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	padding-bottom: 1px;
+	width: 0.01px;
+}
+
+#u1057
+{
+	z-index: 2;
+	min-height: 92px;
+	padding-bottom: 6px;
+}
+
+#u1062
+{
+	z-index: 3;
+	width: 82px;
+	margin-right: -10000px;
+	margin-top: 16px;
+	left: 15px;
+}
+
+#u1058-4
+{
+	z-index: 18;
+	margin-right: -10000px;
+	margin-top: 21px;
+	left: 120px;
+}
+
+#u909-4
+{
+	z-index: 41;
+	position: relative;
+	width: 176px;
+	margin-right: -10000px;
+	margin-top: 54px;
+	left: 849px;
+}
+
+#u909-4_img
+{
+	display: block;
+	vertical-align: top;
+}
+
+#u1057-bw
+{
+	z-index: 2;
+	min-height: 92px;
+}
+
+#u911
+{
+	z-index: 46;
+	height: 38px;
+	width: 176px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 54px;
+	left: 1011px;
+	background: url("../images/u911.png") no-repeat 0px 0px;
+}
+
+#u911:hover
+{
+	background: url("../images/u911-r.png") no-repeat 0px 0px;
+}
+
+#u908
+{
+	z-index: 49;
+	position: relative;
+	width: 176px;
+	margin-right: -10000px;
+	margin-top: 54px;
+	left: 1172px;
+}
+
+#u908_states
+{
+	height: 38px;
+	width: 176px;
+	vertical-align: top;
+	background: url("../images/u908_states.png") no-repeat 0px 0px;
+}
+
+#u908:hover #u908_states
+{
+	background: url("../images/u908_states-r.png") no-repeat 0px 0px;
+}
+
+#u907
+{
+	z-index: 51;
+	width: 2px;
+	height: 55px;
+	background-color: #B6B2B2;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 43px;
+	left: 1018px;
+}
+
+#u906
+{
+	z-index: 52;
+	width: 2px;
+	height: 55px;
+	background-color: #B6B2B2;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 43px;
+	left: 1180px;
+}
+
+#pu1057,#pu1064
+{
+	width: 0.01px;
+	margin-left: -100px;
+}
+
+#u1064
+{
+	z-index: 5;
+	width: 330px;
+	margin-bottom: -1px;
+	margin-right: -10000px;
+	padding: 66px 92px 565px 36px;
+}
+
+#u1204
+{
+	z-index: 22;
+	width: 213px;
+}
+
+#u1059-4
+{
+	z-index: 6;
+	margin-top: 67px;
+}
+
+#u1060-4
+{
+	z-index: 10;
+	margin-top: 18px;
+}
+
+#u1061-4
+{
+	z-index: 14;
+	margin-top: 18px;
+}
+
+#pu1215
+{
+	width: 0.01px;
+	margin-top: 44px;
+}
+
+#u1215
+{
+	z-index: 24;
+	width: 33px;
+	margin-right: -10000px;
+}
+
+#u1217-4
+{
+	z-index: 26;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 41px;
+}
+
+#u904
+{
+	z-index: 39;
+	width: 67px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 35px;
+	left: 491px;
+}
+
+#pu912-4
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 14px;
+	margin-left: 570px;
+}
+
+#u912-4
+{
+	z-index: 35;
+	display: block;
+	vertical-align: top;
+	margin-left: 221px;
+	position: relative;
+}
+
+#pu1240
+{
+	width: 0.01px;
+	margin-top: 109px;
+}
+
+#u1240
+{
+	z-index: 53;
+	width: 621px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+	font-size:large;
+}
+th{
+	color:#F44447;
+	text-align:center;
+	}
+	
+th, td {
+    padding: 15px;
+}
+
+#u1246_img, #u1252_img{
+	cursor:pointer;
+}
+
+#u1246
+{
+	z-index: 55;
+	width: 31px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 53px;
+	left: 350px;
+}
+
+#u1258
+{
+	z-index: 57;
+	width: 31px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 97px;
+	left: 350px;
+}
+
+#u1288
+{
+	z-index: 59;
+	width: 31px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 141px;
+	left: 350px;
+}
+
+#u1294
+{
+	z-index: 61;
+	width: 31px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 185px;
+	left: 350px;
+}
+
+#u1300
+{
+	z-index: 63;
+	width: 31px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 230px;
+	left: 350px;
+}
+
+#u1306
+{
+	z-index: 65;
+	width: 31px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 274px;
+	left: 350px;
+}
+
+#u1312
+{
+	z-index: 67;
+	width: 31px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 318px;
+	left: 350px;
+}
+
+#u1252
+{
+	z-index: 69;
+	width: 30px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 54px;
+	left: 521px;
+}
+
+#u1261
+{
+	z-index: 71;
+	width: 30px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 98px;
+	left: 521px;
+}
+
+#u1291
+{
+	z-index: 73;
+	width: 30px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 142px;
+	left: 521px;
+}
+
+#u1297
+{
+	z-index: 75;
+	width: 30px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 186px;
+	left: 521px;
+}
+
+#u1303
+{
+	z-index: 77;
+	width: 30px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 231px;
+	left: 521px;
+}
+
+#u1309
+{
+	z-index: 79;
+	width: 30px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 275px;
+	left: 521px;
+}
+
+#u1315
+{
+	z-index: 81;
+	width: 30px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 319px;
+	left: 521px;
+}
+
+#u1635
+{
+	z-index: 30;
+	min-height: 48px;
+	padding-bottom: 14px;
+}
+
+#u1057_align_to_page,#u1635_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 1160px;
+	left: -100px;
+}
+
+#u1636-4
+{
+	z-index: 31;
+	margin-right: -10000px;
+	margin-top: 13px;
+	left: 618px;
+}
+
+#u1635-bw
+{
+	z-index: 30;
+	min-height: 48px;
+	margin-top: 1px;
+}
+
+body
+{
+	position: relative;
+	min-width: 1160px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
